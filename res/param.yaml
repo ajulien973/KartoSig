@@ -1,0 +1,8 @@
+<<<<<<< .mine
+clustering_size: 30
+map_width: 5000
+map_height: 3000=======
+clustering_size: 60
+map_width: 10000
+map_height: 8000
+url_json: res/bubbles2.json>>>>>>> .r92

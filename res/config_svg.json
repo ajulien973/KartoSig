@@ -1,0 +1,19 @@
+{
+	"preset": "Default",
+	"closed": false,
+	"remembered": {
+		"Default": {
+			"0": {
+			"proj": "stereo",
+			"lon0": 0,
+			"lat0": 90,
+			"lat1": 37.7,
+			"lat2": 50,
+			"dist": 2,
+			"up": 0,
+			"tilt": 0
+			}
+		}
+	},
+	"folders": {}
+}
